@@ -1,4 +1,4 @@
-[![Cacao Kit Frontend](./.github/og-image.png)](https://cacao-kit.byjohann.dev)
+ [![Cacao Kit Frontend](./.github/og-image.png)](https://cacao-kit.byjohann.dev)
 
 # Cacao Kit (Frontend)
 
@@ -43,6 +43,7 @@ KIRBY_BASE_URL=
 # See https://github.com/johannschopplich/cacao-kit-backend#bearer-token
 KIRBY_API_TOKEN=
 ```
+
 
 ### Development
 
